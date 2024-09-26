@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @sasha-korovkina
-- 👀 I’m interested in automation, web application, commercial applications
+- ✨ Hi, I’m Sasha
+- 👀 I’m interested in automation, database development and management, finance applications
 - 🌱 I’m currently learning JavaScript, GCP, Flutter 
-- 💞️ I’m looking to collaborate on Python, C++, Julia, C#
-- 📫 How to reach me: sasha.korovkina2003@gmail.com
-- ⚡ Fun fact: I am currently looking for open-source finance-related project ideas. Hit me up if you have any!
+- 💞️ I’m looking to collaborate in Python, C++, Julia, C#, C++, JS (specifically hidden APIs) 
+- 📫 How to reach me: sasha.korovkina2003@gmail.com or my work email: sasha@cmi2i.com
+- ⚡ Fun fact: I am currently looking for open-source finance-related project ideas. Even better if they involve JS and data collection. Hit me up if you have any!
 
 <!---
 sasha-korovkina/sasha-korovkina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
